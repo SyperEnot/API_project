@@ -42,7 +42,7 @@
 ## <img alt="Jenkins" height="25" src="media/jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/API_project/)
 
 <p align="center">  
-<img src="media/Jenkins_job.png" alt="Jenkins" width="950"/></a>  
+<img src="media/AllureDashboard.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 <a id="запуск-тестов-из-терминала"></a>
@@ -59,7 +59,7 @@ gradle clean test
 
 - Основная страница отчёта
 <p align="center">  
-<img title="Allure Overview Dashboard" src="media/AllureDashboard.png" width="850">  
+<img title="Allure Overview Dashboard" src="media/AllureResult.png" width="850">  
 </p>  
 
 - Тест-кейсы
