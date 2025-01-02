@@ -29,8 +29,8 @@
 
 ## 🏁 Реализованные проверки:
 
-- Создание нового пользователя (успешно)
-- Регистрация пользователя (успешно)
+- Создание нового пользователя
+- Регистрация пользователя
 - Отправка на регистрацию с незаполненными email/password
 - Проверка данных существующего пользователя
 - Обновление данных пользователя
@@ -39,10 +39,10 @@
 
 <a id="запуск-тестов-сборка-в-jenkins"></a>
 
-## <img alt="Jenkins" height="25" src="media/jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/API_prj_emonovaev/)
+## <img alt="Jenkins" height="25" src="media/jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/API_project/)
 
 <p align="center">  
-<img src="media/jenkins_job.png" alt="Jenkins" width="950"/></a>  
+<img src="media/Jenkins_job.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 <a id="запуск-тестов-из-терминала"></a>
@@ -55,49 +55,49 @@ gradle clean test
 
 <a id="allure-report"></a>
 
-## <img alt="Allure" height="25" src="media/allure.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://jenkins.autotests.cloud/job/API_prj_emonovaev/6/allure/#">Allure Report</a>
+## <img alt="Allure" height="25" src="media/allure.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://jenkins.autotests.cloud/job/API_project/2/allure/">Allure Report</a>
 
 - Основная страница отчёта
 <p align="center">  
-<img title="Allure Overview Dashboard" src="media/allure.png" width="850">  
+<img title="Allure Overview Dashboard" src="media/AllureDashboard.png" width="850">  
 </p>  
 
 - Тест-кейсы
 
 <p align="center">  
-<img title="Allure Tests" src="media/allure_tests.png" width="850">   
+<img title="Allure Tests" src="media/AllureTC.png" width="850">   
 </p>
 
-## <img alt="Allure_TO" height="25" src="media/AllureTestOps.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud">Allure TestOps</a>
+## <img alt="Allure_TO" height="25" src="media/AllureTestOps.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/4538/dashboards">Allure TestOps</a>
 
 - Основная страница отчёта
 
 <p align="center">  
-<img title="Allure TestOps Dashboard" src="media/dashboard.png" width="850">  
+<img title="Allure TestOps Dashboard" src="media/AllureTestOps.png" width="850">  
 </p>  
 
 - Страница запуска
 
 <p align="center">  
-<img title="Allure TestOps launch" src="media/allure_launch.png" width="850">  
+<img title="Allure TestOps launch" src="media/AllureLaunch.png" width="850">  
 </p>
 
 <a id="#интеграция-с-jira"></a>
-## <img alt="Jira" height="25" src="media/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1094">Jira</a>
+## <img alt="Jira" height="25" src="media/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1378">Jira</a>
 
 <p align="center">  
-<img title="Jira" src="media/jira_task.png" width="">  
+<img title="Jira" src="media/JiraTask.png" width="">  
 </p>
 
 ____
 
 <a id="уведомление-в-telegram-о-результатах-выполнения-автоматизированных-тестов"></a>
 
-## <img alt="Allure" height="25" src="media/telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
+## <img alt="telegram" height="25" src="media/telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
 
 ____
 <p align="center">  
-<img title="TG Overview" src="media/tg.png" width="400">  
+<img title="TG Overview" src="media/TelegramResult.png" width="400">  
 </p>
 
 ____
